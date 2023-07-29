@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=B++E++T++A)](https://git.io/typing-svg)
 
 <a>
-      <img width="200" height="28" src="https://komarev.com/ghpvc/?username=Riisimies&style=flat-square&color=6f03fc" alt=""/>
+      <img width="200" height="28" src="https://komarev.com/ghpvc/?username=Pekkiiis18&style=flat-square&color=6f03fc" alt=""/>
 </a>
 
 
