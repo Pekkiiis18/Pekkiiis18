@@ -7,14 +7,6 @@
 
 Hey! I'm a beta. I'm a 14-year-old boy who makes scripts for FiveM
 
-## My roleplay server [FINNISH THEME]
-
-My discord server is down below -->
-
-```bash
-dsc.gg/saariselka
-```
-
 ## What can I do?
 
 ```
