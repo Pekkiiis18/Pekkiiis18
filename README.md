@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=BETABETABETABETA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000&center=true&width=435&lines=Beta)](https://git.io/typing-svg)
 
 <a>
       <img width="200" height="28" src="https://komarev.com/ghpvc/?username=Pekkiiis18&style=flat-square&color=6f03fc" alt=""/>
