@@ -10,7 +10,7 @@
   
 <hr /> 
 
-<a href="https://github.com/Riisimies">
+<a href="https://github.com/Pekkiiis18">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pekkiiis18&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=000&icon_color=fff&bg_color=121212" />
 </a>
   
